@@ -50,3 +50,41 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+
+# Setup
+
+title:        Makerspace
+
+tagline:      A responsive theme for your project on GitHub Pages
+
+baseurl:      ""
+
+paginate:     1
+
+locale:       "en"
+
+
+
+# About/contact
+
+author:
+
+  name:       Author name
+
+  url:        https://makerspace.opensutd.org/
+
+
+
+# Gems
+
+gems:
+
+  - jekyll-paginate
+
+
+
+#Others
+
+markdown: kramdown
