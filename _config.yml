@@ -22,8 +22,8 @@ title: Makerspace
 email: makerspace@club.sutd.edu.sg
 description: >- # this means to ignore newlines until "baseurl:"
   This is still a testing website.
-baseurl: "makerspace.opensutd.org" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "makerspace.opensutd.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Makerspace
 github_username: Makerspace
 
