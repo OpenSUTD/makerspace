@@ -28,7 +28,7 @@ twitter_username: Makerspace
 github_username: Makerspace
 
 # Build settings
-theme: jekyll-cayman-theme
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 # Exclude from processing.
