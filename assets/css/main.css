@@ -2123,7 +2123,6 @@
 
 	.select-wrapper {
 		text-decoration: none;
-		text-decoration: none;
 		display: block;
 		position: relative;
 	}
@@ -2735,7 +2734,7 @@
 
 		.wrapper.style3 {
 			background-attachment: fixed;
-			background-image: url("images/overlay.png"), url("../../images/pd1.jpg");
+			background-image:url("../../images/pd1.jpg");
 			background-position: center center;
 			background-size: cover;
 		}
@@ -2925,7 +2924,6 @@
 
 	.navPanelToggle {
 		text-decoration: none;
-		text-decoration: none;
 		height: 100%;
 		left: 0;
 		position: absolute;
@@ -3090,7 +3088,7 @@
 	#banner {
 		padding: 16em 0 13em 0;
 		background-attachment: fixed;
-		background-image: url("images/overlay.png"), url("../../images/banner2.jpg");
+		background-image:url("../../images/banner2.jpg");
 		background-position: center top;
 		background-size: cover;
 		line-height: 1.75;
