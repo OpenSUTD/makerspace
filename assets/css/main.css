@@ -1677,9 +1677,10 @@
 		margin: 0 0 1em 0;
 		text-transform: uppercase;
 	}
+/*  Makerspace Text Header */
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-			color: inherit;
+			color: #1775FF;
 			text-decoration: none;
 		}
 
@@ -1809,6 +1810,7 @@
 		-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+		/*black button*/
 		background-color: #323037;
 		border-radius: 4px;
 		color: #ffffff !important;
@@ -1936,14 +1938,14 @@
 			.button.alt.icon:before {
 				color: #aaa;
 			}
-
+/*blue button*/
 		input[type="submit"].special,
 		input[type="reset"].special,
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #f32853;
-			color: #ffffff !important;
+			background-color: #1775FF;
+			color: #fff !important;
 		}
 
 			input[type="submit"].special:hover,
@@ -1951,15 +1953,15 @@
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #f44066;
+				background-color: #1775FF;
 			}
-
+/*button colour*/
 			input[type="submit"].special:active,
 			input[type="reset"].special:active,
 			input[type="button"].special:active,
 			button.special:active,
 			.button.special:active {
-				background-color: #f21040;
+				background-color: ##1775FF;
 			}
 
 		@media screen and (max-width: 480px) {
@@ -2559,7 +2561,7 @@
 	}
 
 	header p {
-		color: #aaa;
+		color: ##1775FF;
 		position: relative;
 		margin: 0 0 1.5em 0;
 		text-transform: uppercase;
