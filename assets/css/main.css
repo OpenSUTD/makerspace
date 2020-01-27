@@ -2123,6 +2123,7 @@
 
 	.select-wrapper {
 		text-decoration: none;
+		text-decoration: none;
 		display: block;
 		position: relative;
 	}
@@ -2166,6 +2167,7 @@
 	}
 
 	input[type="checkbox"],
+
 	input[type="radio"] {
 		-moz-appearance: none;
 		-webkit-appearance: none;
@@ -2734,7 +2736,7 @@
 
 		.wrapper.style3 {
 			background-attachment: fixed;
-			background-image: url("images/overlay.png"), url("../../images/pd1.jpg");
+			background-image: url("images/overlay.png"), url("../../images/pday3.JPG");
 			background-position: center center;
 			background-size: cover;
 		}
@@ -2924,8 +2926,10 @@
 
 	.navPanelToggle {
 		text-decoration: none;
+		text-decoration: none;
 		height: 100%;
-		eposition: absolute;
+		left: 0;
+		position: absolute;
 		top: 0;
 		width: 100%;
 		display: none;
@@ -3110,7 +3114,7 @@
 			color: #aaa;
 			font-size: 1.5em;
 			margin-bottom: 1.75em;
-			text-transform: lowercase;
+			text-transform: uppercase;
 		}
 
 		@media screen and (max-width: 1280px) {
