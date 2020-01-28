@@ -1680,7 +1680,7 @@
 /*  Makerspace Text Header */
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-			color: #000000;
+			color: #1775FF;
 			text-decoration: none;
 		}
 
@@ -2912,6 +2912,33 @@
 					}
 
 			#header.alt .button {
+				border-color: rgba(255, 255, 255, 0.5);
+				color: #ffffff !important;
+			}
+#header.alt2 h1 {
+				color: #ffffff;
+				left: 2.5em;
+				top: 0.em;
+			}
+
+				#header.alt2 h1 a {
+					color: #FFF;
+				}
+
+			#header.alt nav {
+				right: 2em;
+				top: 2em;
+			}
+
+				#header.alt2 nav a {
+					color: #ddd;
+				}
+
+					#header.alt2 nav a:active, #header.alt nav a:hover {
+						color: #FFF;
+					}
+
+			#header.alt2 .button {
 				border-color: rgba(255, 255, 255, 0.5);
 				color: #ffffff !important;
 			}
