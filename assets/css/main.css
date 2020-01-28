@@ -2560,7 +2560,7 @@
 	}
 
 	header p {
-		color: #1775FF;
+		color: #a;
 		position: relative;
 		margin: 0 0 1.5em 0;
 		text-transform: uppercase;
@@ -2918,29 +2918,7 @@
 				color: #ffffff;
 				left: 2.5em;
 				top: 0.em;
-			}
-
-				#header.alt2 h1 a {
-					color: #FFF;
-				}
-
-			#header.alt nav {
-				right: 2em;
-				top: 2em;
-			}
-
-				#header.alt2 nav a {
-					color: #ddd;
-				}
-
-					#header.alt2 nav a:active, #header.alt nav a:hover {
-						color: #FFF;
-					}
-
-			#header.alt2 .button {
-				border-color: rgba(255, 255, 255, 0.5);
-				color: #ffffff !important;
-			}
+			}			
 
 		@media screen and (max-width: 980px) {
 
