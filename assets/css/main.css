@@ -1961,7 +1961,7 @@
 			input[type="button"].special:active,
 			button.special:active,
 			.button.special:active {
-				background-color: ##1775FF;
+				background-color: #1775FF;
 			}
 
 		@media screen and (max-width: 480px) {
@@ -2124,7 +2124,6 @@
 		}
 
 	.select-wrapper {
-		text-decoration: none;
 		text-decoration: none;
 		display: block;
 		position: relative;
@@ -2561,7 +2560,7 @@
 	}
 
 	header p {
-		color: ##1775FF;
+		color: #1775FF;
 		position: relative;
 		margin: 0 0 1.5em 0;
 		text-transform: uppercase;
@@ -2954,7 +2953,6 @@
 /* Menu */
 
 	.navPanelToggle {
-		text-decoration: none;
 		text-decoration: none;
 		height: 100%;
 		left: 0;
