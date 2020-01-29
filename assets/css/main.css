@@ -1647,10 +1647,10 @@
 			}
 
 		}
-
+/*hyperlink style*/
 	a {
 		text-decoration: underline;
-		color: #f32853;
+		color: #000000;
 	}
 
 		a:hover {
@@ -1671,7 +1671,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #a0;
+		color: #a3;
 		font-weight: 700;
 		line-height: 1em;
 		margin: 0 0 1em 0;
