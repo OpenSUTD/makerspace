@@ -1810,17 +1810,20 @@
 		-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-		/*black button*/
+	
+		/*black button*/ /*button width*/
 		background-color: #323037;
 		border-radius: 4px;
+		border-bottom-width: thin;
+		border-width: inherit;
 		color: #ffffff !important;
 		border: 0;
 		cursor: pointer;
-		display: inline-block;
+		display: block;
 		font-weight: 700;
 		height: 3.15em;
 		line-height: 3.25em;
-		padding: 0 2.2em;
+		padding: 0;
 		text-align: center;
 		text-decoration: none;
 		text-transform: uppercase;
@@ -2777,7 +2780,7 @@
 		@media screen and (max-width: 480px) {
 
 			.wrapper {
-				padding: 2em 0 0.1em 0;
+				padding: 2=5em 0 0.1em 0;
 			}
 
 		}
